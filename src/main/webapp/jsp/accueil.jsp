@@ -26,7 +26,7 @@
                 </div>
             </div>
             <div class="navItem">
-                <div class="limitedOffer"><a href="pageconnexion.html">connexion</a></div>
+                <div class="limitedOffer"><a href="connexion.jsp">connexion</a></div>
             </div>
         </div>
         <div class="navBottom">
@@ -279,7 +279,7 @@
             </div>
         </div>
     </footer>
-    <script src="/js/app.js"></script>
+    <script src="../js/app1.js"></script>
 </body>
 
 </html>

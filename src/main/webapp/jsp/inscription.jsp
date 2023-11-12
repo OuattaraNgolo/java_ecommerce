@@ -5,7 +5,7 @@
 <head>
          <meta charset="UTF-8">
          <meta name="viewport" content="width=device-width, initial-scale=1.0">
-         <link rel="stylesheet" href="/css/style2.css">
+         <link rel="stylesheet" href="../css/style2.css">
          <title>connexion</title>
 </head>
 <body>
@@ -28,7 +28,7 @@
                                     <label for="pw" class="form_label">password</label>
                            </div>
                            <input type="submit" value="inscription" class="form_button">
-                           <p>j'ai déjà de compte <a href="pageconnexion.html">connexion</a></p>
+                           <p>j'ai déjà de compte <a href="connexion.jsp">connexion</a></p>
                   </form>
          </div>
 </body>
